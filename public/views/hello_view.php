@@ -6,6 +6,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="<?=PATH?>public/views/style/style.css">   
    <link rel="icon" sizes="450x450" type="image/svg+xml" href="<?=PATH?>public/views/img/logo.svg">
+   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
    <title>Личный сайт Павла Бойко</title>
 </head>
 <body>
@@ -16,11 +17,25 @@
          </a>
       </div>
       <nav>
-         <ul>
+      <input id="menu__toggle" type="checkbox">
+      <label class="menu__btn" for="menu__toggle">
+      <span></span>
+      </label>
+      
+         <ul class="menu__box">
+            <a class="menu__item" href="#"><li>Главная</li></a>
+            <a class="menu__item" href="#"><li>Заказать услугу</li></a>
+            <a class="menu__item" href="#"><li>Подробнее о проекте</li></a>
+         </ul>
+
+         <ul class="words">
             <a href="#"><li>Главная</li></a>
             <a href="#"><li>Заказать услугу</li></a>
             <a href="#"><li>Подробнее о проекте</li></a>
          </ul>
+
+
+         <div class="nav-toggle"><span></span></div>
       </nav>
    </header>
    <main>
@@ -51,8 +66,7 @@
                <div class="button"><a href="##">Заказать</a></div>
             </div>
       </div>
-
-      <div class=""
+      <div class=""></div>
    </main>
 </body>
 </html>
