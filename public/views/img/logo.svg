@@ -1,0 +1,15 @@
+<svg height="400" version="1.1" width="605" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="overflow: hidden; position: relative;" viewBox="0 0 605 450" preserveAspectRatio="xMidYMid meet" id="main_svg">
+   <desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></desc>
+   <defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+      <style type="text/css">      
+      @font-face {
+         font-family: blogger_bold;
+         src: url('http://mysite/views/img/fonts/blogger.ttf');
+      }
+   </style>
+   </defs>
+   <text x="0" y="0" text-anchor="middle" font-family="blogger_bold" font-size="48px" stroke="none" fill="#000000" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-anchor: middle; font-family: blogger_bold; font-size: 48px; cursor: move; opacity: 1;" opacity="1" transform="matrix(1,0,0,1,302.5,306.1326)">
+      <tspan dy="0" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">На все руки</tspan>
+   </text>
+   <path fill="#3c49c0" stroke="#082d8a" d="M60,80A20,20,0,1,0,100,80A20,20,0,1,0,60,80M160,90V70H139.2C137.7,60.9,134.1,52.5,129,45.2L143.6,30.5L130,16.4L115,31.1C107.6,26,99.2,22.4,90,20.8V0H70V20.8C60.9,22.3,52.5,25.9,45.2,31.1L30.5,16.4L16.4,30.5L31,45.2C26,52.4,22.4,60.8,20.8,70H0V90H20.8C22.3,99.1,25.9,107.5,31.1,114.8L16.4,129.5L30.5,143.6L45.2,128.9C52.4,134,60.8,137.6,70,139.2V160H90V139.2C99.1,137.7,107.5,134.1,114.8,129L129.5,143.6L143.6,130L128.9,115C134,107.6,137.6,99.2,139.2,90H160ZM80,120C57.9,120,40,102.1,40,80S57.9,40,80,40S120,57.9,120,80S102.1,120,80,120Z" stroke-width="2" opacity="1" transform="matrix(-0.866,-0.5,0.5,-0.866,331.7771,284.2788)" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); opacity: 1; cursor: move;"></path>
+</svg>
